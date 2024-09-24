@@ -12,7 +12,9 @@ Hey there! I'm a Full Stack Developer with over 6 years of experience building e
 Frontend:
 
 ⚛️ React.js, Redux, Redux-Saga, JavaScript, TypeScript
+
 💅 Bootstrap, Material-UI, jQuery
+
 🎨 HTML5, CSS3, Sass
 
 Backend:
