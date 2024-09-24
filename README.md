@@ -36,17 +36,21 @@ Other Tools:
 
 
 🚀 Projects
+
 📝 Project 1: Task Management App
 A full-stack task management app built with React, Redux, and Node.js.
 
 Features: User authentication, task management, real-time updates.
 Tech Stack: React, Redux, Node.js, SQL Server, Express.js.
+
 🎮 Project 2: Interactive Quiz Game
 A real-time interactive quiz game with state management using Redux-Saga and UI styling with Material-UI.
 
 Features: Multiplayer mode, real-time leaderboard, timer.
 Tech Stack: React, Redux-Saga, Material-UI, Node.js, MongoDB.
+
 🧪 Proof of Concepts (POCs)
+
 🌐 POC 1: Advanced State Management
 Implementing complex state management solutions using Redux and Redux-Saga in a modular app.
 
